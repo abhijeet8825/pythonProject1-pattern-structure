@@ -14,7 +14,7 @@ def pattern(n):
                 print('*',end='')
 
             print()
-pattern(5)
+pattern(6)
 
 
 
