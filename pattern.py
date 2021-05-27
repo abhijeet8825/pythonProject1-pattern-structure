@@ -17,7 +17,4 @@ def pattern(n):
 pattern(5)
 
 
-this is abhijeet kumar
-this is abhishek kumar
-
 
